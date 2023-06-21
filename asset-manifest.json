@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Agecalculator/static/css/main.fc749655.css",
+    "main.js": "/Agecalculator/static/js/main.1a23336a.js",
+    "static/js/787.1715cc32.chunk.js": "/Agecalculator/static/js/787.1715cc32.chunk.js",
+    "index.html": "/Agecalculator/index.html",
+    "main.fc749655.css.map": "/Agecalculator/static/css/main.fc749655.css.map",
+    "main.1a23336a.js.map": "/Agecalculator/static/js/main.1a23336a.js.map",
+    "787.1715cc32.chunk.js.map": "/Agecalculator/static/js/787.1715cc32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc749655.css",
+    "static/js/main.1a23336a.js"
+  ]
+}
